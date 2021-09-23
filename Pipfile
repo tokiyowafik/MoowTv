@@ -9,6 +9,7 @@ autopep8 = "*"
 pylint-django = "*"
 mysqlclient = "*"
 keyring = "*"
+django-debug-toolbar = "*"
 
 [dev-packages]
 
